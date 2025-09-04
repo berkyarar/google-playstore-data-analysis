@@ -54,6 +54,4 @@ installs, and ratings.
 - File: `17-googleplaystore.csv`
 - Source: Publicly available Google Play Store dataset (Kaggle / educational use)
 
-## 📌 Note
 
-This project is for **educational purposes**.  
