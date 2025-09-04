@@ -43,6 +43,12 @@ installs, and ratings.
    git clone https://github.com/username/google-play-analysis.git
    cd google-play-analysis
 
+2. Install the requirements:
+   pip install -r requirements.txt
+
+3. Run the Python script:
+   python main.py
+
 ## 📂 Dataset
 
 - File: `17-googleplaystore.csv`
